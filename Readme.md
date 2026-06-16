@@ -15,7 +15,7 @@
 
 ## Links
 
-| Project | Repository |
-|---------|-----------|
-| Backend | [github.com/ShaikhSamir786/cp-backend](https://github.com/ShaikhSamir786/cp-backend) |
-| Mobile App | Coming soon |
+| Project | Repository | Repo Type |
+|---------|-----------|-----------|
+| Backend | [github.com/ShaikhSamir786/cp-backend](https://github.com/ShaikhSamir786/cp-backend) | Private |
+| Mobile App | Coming soon | — |
